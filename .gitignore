@@ -318,3 +318,13 @@ jupyter_cache/
 __jupyter__
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,python,pycharm,visualstudiocode
+
+# Whoosh Index
+indexdir/
+
+# Qdrant Storage / lokale Daten
+qdrant_storage/
+storage/
+shard_*
+replica_*
+segments/
