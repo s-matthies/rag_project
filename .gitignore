@@ -334,5 +334,9 @@ chroma/
 *.parquet
 *.bin
 index/
+chroma.db/
+chroma_data/
+*.sqlite
+*.sqlite3
 
 data/arxiv_db/
